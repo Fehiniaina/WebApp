@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\Repositories\\BookingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Booking.Infrastructure\\Repositories\\BookingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Domain\\AggregatesModel\\BookingAggregate\\IBookingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Booking.Domain\\AggregatesModel\\BookingAggregate\\IBookingRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\GlobalUsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Booking.Infrastructure\\GlobalUsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\MediatorExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Booking.Infrastructure\\MediatorExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Domain\\AggregatesModel\\BookingAggregate\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "src\\Booking.Domain\\AggregatesModel\\BookingAggregate\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Domain\\AggregatesModel\\BookingAggregate\\IBookingRepository.cs",
+              "RelativeToolTip": "src\\Booking.Domain\\AggregatesModel\\BookingAggregate\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:39:13.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "src\\Booking.Infrastructure\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\GlobalUsing.cs",
+              "RelativeToolTip": "src\\Booking.Infrastructure\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:39:04.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "src\\Booking.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "src\\Booking.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:38:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediatorExtension.cs",
+              "DocumentMoniker": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\MediatorExtension.cs",
+              "RelativeDocumentMoniker": "src\\Booking.Infrastructure\\MediatorExtension.cs",
+              "ToolTip": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\Booking.Infrastructure\\MediatorExtension.cs",
+              "RelativeToolTip": "src\\Booking.Infrastructure\\MediatorExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:34:59.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -97,6 +97,7 @@ C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.A
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ApiService\obj\Debug\net10.0\WebApp.ApiService.csproj.CoreCompileInputs.cache
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ApiService\obj\Debug\net10.0\WebApp.ApiService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ApiService\obj\Debug\net10.0\WebApp.ApiService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ApiService\obj\Debug\net10.0\WebApp.ApiService.sourcelink.json
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ApiService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ApiService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ApiService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

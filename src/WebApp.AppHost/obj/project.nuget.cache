@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "OY2zu66sdJA=",
+  "dgSpecHash": "vDl8ob7WhrE=",
   "success": true,
   "projectFilePath": "C:\\Users\\FehiniainaRAHARINIVO\\Documents\\versusmind\\workspace\\WebApp\\src\\WebApp.AppHost\\WebApp.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\aspire.hosting\\13.5.3\\aspire.hosting.13.5.3.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\aspire.hosting.apphost\\13.5.3\\aspire.hosting.apphost.13.5.3.nupkg.sha512",
+    "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\aspire.hosting.postgresql\\13.5.3\\aspire.hosting.postgresql.13.5.3.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\aspire.hosting.redis\\13.5.3\\aspire.hosting.redis.13.5.3.nupkg.sha512",
+    "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\aspnetcore.healthchecks.npgsql\\9.0.0\\aspnetcore.healthchecks.npgsql.9.0.0.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\aspnetcore.healthchecks.redis\\9.0.0\\aspnetcore.healthchecks.redis.9.0.0.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\aspnetcore.healthchecks.uris\\9.0.0\\aspnetcore.healthchecks.uris.9.0.0.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\fractions\\7.3.0\\fractions.7.3.0.nupkg.sha512",
@@ -66,6 +68,7 @@
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\nerdbank.messagepack\\1.2.4\\nerdbank.messagepack.1.2.4.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\nerdbank.streams\\2.13.16\\nerdbank.streams.2.13.16.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\opentelemetry\\1.15.3\\opentelemetry.1.15.3.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\opentelemetry.api\\1.15.3\\opentelemetry.api.1.15.3.nupkg.sha512",
     "C:\\Users\\FehiniainaRAHARINIVO\\.nuget\\packages\\opentelemetry.api.providerbuilderextensions\\1.15.3\\opentelemetry.api.providerbuilderextensions.1.15.3.nupkg.sha512",

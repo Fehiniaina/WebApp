@@ -40,7 +40,7 @@ public class Booking : Entity, IAggregateRoot
             throw new BookingDomainException("A booking must have at least one attendee.");
         }
 
-        Id = BookingId.New;
+        Id = BookingId.New();
         RoomId = roomId;
         OrganizerId = organizerId;
         Purpose = purpose;

@@ -1,5 +1,7 @@
 namespace Booking.Infrastructure.Repositories;
 
+using BookingEntity = Booking.Domain.AggregatesModel.BookingAggregate.Booking;
+
 public class BookingRepository : IBookingRepository
 {
     private static readonly BookingStatus[] ActiveStatuses = [BookingStatus.Pending, BookingStatus.Confirmed];

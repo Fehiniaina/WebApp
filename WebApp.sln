@@ -1,6 +1,7 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.0.0
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.9.12120.119 stable
 MinimumVisualStudioVersion = 17.8.0.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.AppHost", "src\WebApp.AppHost\WebApp.AppHost.csproj", "{640A981B-B2E8-448F-88F7-98A8EDCA3273}"
 EndProject
@@ -44,6 +45,14 @@ Global
 		{995363E7-4AC5-4D33-A168-B4C029252BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{995363E7-4AC5-4D33-A168-B4C029252BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{995363E7-4AC5-4D33-A168-B4C029252BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC7AF2E-96D0-455F-846A-56AC7D1FFFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC7AF2E-96D0-455F-846A-56AC7D1FFFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC7AF2E-96D0-455F-846A-56AC7D1FFFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC7AF2E-96D0-455F-846A-56AC7D1FFFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EBCE7D-3167-483D-8454-7AD65C9AC177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EBCE7D-3167-483D-8454-7AD65C9AC177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EBCE7D-3167-483D-8454-7AD65C9AC177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EBCE7D-3167-483D-8454-7AD65C9AC177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

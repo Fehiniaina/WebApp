@@ -164,6 +164,7 @@ C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.W
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.Web\obj\Debug\net10.0\WebApp.Web.AssemblyInfo.cs
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.Web\obj\Debug\net10.0\WebApp.Web.csproj.CoreCompileInputs.cache
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.Web\obj\Debug\net10.0\WebApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.Web\obj\Debug\net10.0\WebApp.Web.sourcelink.json
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

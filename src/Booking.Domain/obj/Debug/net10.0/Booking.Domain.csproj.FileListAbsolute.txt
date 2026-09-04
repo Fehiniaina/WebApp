@@ -1,0 +1,13 @@
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\bin\Debug\net10.0\Booking.Domain.deps.json
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\bin\Debug\net10.0\Booking.Domain.dll
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\bin\Debug\net10.0\Booking.Domain.pdb
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.csproj.AssemblyReference.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.AssemblyInfoInputs.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.AssemblyInfo.cs
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.sourcelink.json
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.dll
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\refint\Booking.Domain.dll
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\Booking.Domain.pdb
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Domain\obj\Debug\net10.0\ref\Booking.Domain.dll

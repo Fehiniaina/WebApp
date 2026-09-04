@@ -1,0 +1,16 @@
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.AspNetCore.Http.HttpResults;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Booking.API.Application.Behaviors;
+global using Booking.API.Application.Commands;
+global using Booking.API.Application.Queries;
+global using Booking.API.Application.Validations;
+global using Booking.API.Apis;
+global using Booking.API.Extensions;
+global using Booking.Domain.AggregatesModel.BookingAggregate;
+global using Booking.Domain.Exceptions;
+global using Booking.Domain.SeedWork;
+global using Booking.Infrastructure;
+global using Booking.Infrastructure.Repositories;

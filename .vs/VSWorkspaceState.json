@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Booking.API\\Application",
+    "\\src\\Booking.API\\Application\\Commands",
+    "\\src\\Booking.Domain",
+    "\\src\\Booking.Domain\\AggregatesModel",
+    "\\src\\Booking.Domain\\AggregatesModel\\BookingAggregate",
+    "\\src\\Booking.Infrastructure",
+    "\\src\\Booking.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\src\\Booking.Infrastructure\\Repositories\\BookingRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

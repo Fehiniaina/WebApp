@@ -1,0 +1,16 @@
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\bin\Debug\net10.0\Booking.Infrastructure.deps.json
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\bin\Debug\net10.0\Booking.Infrastructure.dll
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\bin\Debug\net10.0\Booking.Infrastructure.pdb
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\bin\Debug\net10.0\Booking.Domain.dll
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\bin\Debug\net10.0\Booking.Domain.pdb
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.AssemblyInfo.cs
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.sourcelink.json
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking..0212B810.Up2Date
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.dll
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\refint\Booking.Infrastructure.dll
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\Booking.Infrastructure.pdb
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\Booking.Infrastructure\obj\Debug\net10.0\ref\Booking.Infrastructure.dll

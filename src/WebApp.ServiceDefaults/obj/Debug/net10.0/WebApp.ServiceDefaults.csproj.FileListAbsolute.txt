@@ -18,6 +18,7 @@ C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.S
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ServiceDefaults\obj\Debug\net10.0\WebApp.ServiceDefaults.AssemblyInfoInputs.cache
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ServiceDefaults\obj\Debug\net10.0\WebApp.ServiceDefaults.AssemblyInfo.cs
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ServiceDefaults\obj\Debug\net10.0\WebApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ServiceDefaults\obj\Debug\net10.0\WebApp.ServiceDefaults.sourcelink.json
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ServiceDefaults\obj\Debug\net10.0\WebApp.ServiceDefaults.dll
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ServiceDefaults\obj\Debug\net10.0\refint\WebApp.ServiceDefaults.dll
 C:\Users\FehiniainaRAHARINIVO\Documents\versusmind\workspace\WebApp\src\WebApp.ServiceDefaults\obj\Debug\net10.0\WebApp.ServiceDefaults.pdb

@@ -10,11 +10,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+	<ProjectReference Include="..\Booking.API\Booking.API.csproj" />
     <ProjectReference Include="..\WebApp.ApiService\WebApp.ApiService.csproj" />
     <ProjectReference Include="..\WebApp.Web\WebApp.Web.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+	<PackageReference Include="Aspire.Hosting.PostgreSQL" Version="13.5.3" />
     <PackageReference Include="Aspire.Hosting.Redis" Version="13.5.3" />
   </ItemGroup>
 
